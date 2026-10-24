@@ -1,0 +1,45 @@
+.over-lay{
+    color: blue;
+    background-color: beige;
+    font-size: 100px;
+    font-style: italic;
+}
+.green{
+  border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}.red{
+    border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}
+.vol{
+    border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}
+.cat{
+    border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}
+.dog{
+     border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover; 
+}
+.sim{
+      border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}
+.cal{
+  color: brown;
+  font-size: 50px;
+}
